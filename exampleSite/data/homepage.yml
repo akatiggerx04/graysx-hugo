@@ -1,0 +1,32 @@
+# Main Title
+main:
+  header:
+    title : "Graysx Theme" # Title Text
+    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    button:
+      text: "Learn More" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "About us"
+  desc: "Max Ducim Qua Labo Pa Adre Nam Ased Di Ullam Ess Num Minim Quorecu Re Iur Ipsam Autemo Autem Max Iurer Ut Enim Praese Ips Fugia Ne Dig Assumen Cul Ipsum Velit Magna Inl Odio Enimodi Nonve Sunti Tem Incidu Velqui Lauda Assume Volupt Nih Es Autem Officia Culpa Impedit Harum Blandi Si Quis Dol Facilis Verodo Tot Quib Quoden"
+  button:
+    enable: true
+    text: "Button"
+    url: "#"
+  image: "assets/img/ipad.png"
+
+projects:
+  card1:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/bg-masthead.jpg"
+  card2:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/demo-image-01.jpg"
+  card3:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/demo-image-02.jpg"

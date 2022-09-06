@@ -1,0 +1,18 @@
+name = "Graysx"
+license = "GPLv3"
+licenselink = "https://github.com/akatiggerx04/graysx-hugo/blob/master/LICENSE"
+description = "A minimal responsive gray Hugo theme."
+homepage = "https://github.com/akatiggerx04/graysx-hugo"
+tags = ["minimal", "gray", "dark"]
+features = ["responsive"]
+min_version = "0.41.0"
+
+[author]
+  name = "akatiggerx04"
+  homepage = "https://github.com/akatiggerx04/graysx-hugo"
+  repo = "https://github.com/akatiggerx04/graysx-hugo"
+
+[original]
+  name = "GrayScale"
+  homepage = "https://startbootstrap.com/theme/grayscale"
+  repo = "https://github.com/startbootstrap/startbootstrap-grayscale"
