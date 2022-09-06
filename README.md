@@ -6,7 +6,7 @@ Demo here: https://akatiggerx04.github.io/graysx-hugo/
 
 ## Installation 
 
-#### Create a new Hugo site (Skip If Already Done)
+#### Create a new Hugo site (Skip if already done)
 
 ```sh
 hugo new site example && cd example
